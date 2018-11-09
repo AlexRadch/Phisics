@@ -1,2 +1,2 @@
-# Phisics
-Phisics
+# Physics
+Physics
